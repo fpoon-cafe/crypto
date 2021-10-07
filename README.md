@@ -8,3 +8,6 @@
  * python funding_rates_plot.py
 
 ![GitHub Logo](./example.png)
+
+Deployed in AWS Lambda running on an hourly CloudWatch scheduled event
+https://crypto-plot.s3.amazonaws.com/crypto-plot-lambda.html
